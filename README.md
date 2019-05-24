@@ -1,2 +1,4 @@
 # code-droplets
-Digging dig deep into python.
+Generic codes.
+More focussed to extract the interpreter resource.
+These are publicilly available code.
