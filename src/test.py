@@ -27,3 +27,17 @@ abc = A()
 print(type(abc))
 print(type(A))
 print(type(type))
+
+# a = 0
+# id_a = id(a)
+# variables = {**locals(), **globals()}
+# for var in variables:
+#     exec('var_id=id(%s)'%var)
+#     if var_id == id_a:
+#         exec('the_variable=%s'%var)
+# print(the_variable)
+# print(id(the_variable))
+
+print("==================================")
+print('' or 1 and 2)
+print("==================================")

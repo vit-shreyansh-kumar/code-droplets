@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84eb5f39-bdbd-40e0-90ce-3622f99518fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/code-droplets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/Private.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/Protected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/Public.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntiPatterns/CopyPaste" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntiPatterns/GoldenHammer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntiPatterns/LavaFlow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntiPatterns/Spaghetti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AntiPatterns/VendorLockIn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/CountPairsInArrayWhoseSumIsDivisibleByK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/DuplicateInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/HotelBookingPossible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/KthMissingElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/LargestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/MaxUnsortedSubArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/MaximumConsecutiveGap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/NextPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/RemoveDuplicatesFromArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/UniquePairsInAnArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrainEaters/WaveArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Structures/Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Structures/Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Structures/LinlkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Structures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/AbstractFactoryPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/BorgSingletonPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/BridgePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/BuilderPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/Closure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/DecoratorPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/DecoratorsAsAClassPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/DecoratorsToCheckErrors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/FacadePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/FactoryPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/IteratorPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/ObjectPool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/ObserverPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/ProxyPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/ProxyRestrictedPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/SingletonLazyPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/SingletonPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/SingletonPatternUsingMetaClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/StatePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design Patterns/Super.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi Threading/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Merge Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/WaveSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/heapsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-files/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Context Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Context Manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GarbageCollectionTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/GarbageCollectionTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixMultiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixMultiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Meta Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Meta Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator Overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operator Overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BrainEaters/NextPermutation.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data Structures/LinlkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BrainEaters/KthMissingElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BrainEaters/UniquePairsInAnArray.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BrainEaters/CountPairsInArrayWhoseSumIsDivisibleByK.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BrainEaters/RemoveDuplicatesFromArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/binarytree/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2754">
+              <caret line="162" column="12" selection-start-line="162" selection-start-column="12" selection-end-line="162" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sorting/heapsort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sorting/QuickSort.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>c_long</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Context Manager.py" />
+        <option value="$PROJECT_DIR$/src/GarbageCollectionTest.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/Singleton.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/SingletonUsingMetaClasses.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/FactoryPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/AbstractFactoryPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/BorgSingletonPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/ProxyPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/ProxyRestrictedPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/SingletonLazyPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/FacadePattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/StatePattern.py" />
+        <option value="$PROJECT_DIR$/src/AntiPatterns/GoldenHammer" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/BridgePattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/ObserverPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/Closure.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/IteratorPattern.py" />
+        <option value="$PROJECT_DIR$/src/test.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/BuilderPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/ObjectPool.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/Super.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/SingletonPattern.py" />
+        <option value="$PROJECT_DIR$/src/Meta Class.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/DecoratorPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/DecoratorsAsAClassPattern.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/DecoratorsToCheckErrors.py" />
+        <option value="$PROJECT_DIR$/src/Design Patterns/SingletonPatternUsingMetaClasses.py" />
+        <option value="$PROJECT_DIR$/Variables/Public.py" />
+        <option value="$PROJECT_DIR$/Variables/Private.py" />
+        <option value="$PROJECT_DIR$/src/MatrixMultiplication.py" />
+        <option value="$PROJECT_DIR$/src/property.py" />
+        <option value="$PROJECT_DIR$/src/Sorting/Merge Sort.py" />
+        <option value="$PROJECT_DIR$/src/Sorting/QuickSort.py" />
+        <option value="$PROJECT_DIR$/src/Data Structures/Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/src/Data Structures/Binary Tree.py" />
+        <option value="$PROJECT_DIR$/src/Sorting/WaveSort.py" />
+        <option value="$PROJECT_DIR$/test-files/test.py" />
+        <option value="$PROJECT_DIR$/Variables/Protected.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/LargestNumber.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/DuplicateInArray.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/WaveArray.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/MaxUnsortedSubArray.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/MaximumConsecutiveGap.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/HotelBookingPossible.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/NextPermutation.py" />
+        <option value="$PROJECT_DIR$/src/Data Structures/LinlkedList.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/KthMissingElement.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/UniquePairsInAnArray.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/CountPairsInArrayWhoseSumIsDivisibleByK.py" />
+        <option value="$PROJECT_DIR$/src/BrainEaters/RemoveDuplicatesFromArray.py" />
+        <option value="$PROJECT_DIR$/src/Sorting/heapsort.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AntiPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BrainEaters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="test-files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-droplets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-droplets" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.RemoveDuplicatesFromArray">
+    <configuration name="LinlkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code-droplets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Data Structures/LinlkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Private" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code-droplets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Variables/Private.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code-droplets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sorting/QuickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoveDuplicatesFromArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code-droplets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/BrainEaters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/BrainEaters/RemoveDuplicatesFromArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code-droplets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-files/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RemoveDuplicatesFromArray" />
+        <item itemvalue="Python.LinlkedList" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.QuickSort" />
+        <item itemvalue="Python.Private" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84eb5f39-bdbd-40e0-90ce-3622f99518fc" name="Default Changelist" comment="" />
+      <created>1558766228952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558766228952</updated>
+      <workItem from="1558766234462" duration="16640000" />
+      <workItem from="1558978927951" duration="4521000" />
+      <workItem from="1559065777916" duration="2315000" />
+      <workItem from="1559106507661" duration="430000" />
+      <workItem from="1559373662379" duration="22869000" />
+      <workItem from="1559579362886" duration="4771000" />
+      <workItem from="1559660833932" duration="7426000" />
+      <workItem from="1559761270249" duration="3700000" />
+      <workItem from="1559771978692" duration="333000" />
+      <workItem from="1559836006337" duration="963000" />
+      <workItem from="1559839585146" duration="7649000" />
+      <workItem from="1559924029475" duration="11565000" />
+      <workItem from="1560228861145" duration="743000" />
+      <workItem from="1560271741259" duration="696000" />
+      <workItem from="1560279722415" duration="2544000" />
+      <workItem from="1560439571500" duration="2962000" />
+      <workItem from="1560527671027" duration="607000" />
+      <workItem from="1560529098499" duration="47000" />
+      <workItem from="1560529185950" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91379000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3197051" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_droplets$Private.coverage" NAME="Private Coverage Results" MODIFIED="1559770426560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+    <SUITE FILE_PATH="coverage/code_droplets$Super.coverage" NAME="Super Coverage Results" MODIFIED="1559510333399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$DecoratorsAsAClassPattern.coverage" NAME="DecoratorsAsAClassPattern Coverage Results" MODIFIED="1559677473476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$DecoratorPattern.coverage" NAME="DecoratorPattern Coverage Results" MODIFIED="1559672316749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$LinlkedList.coverage" NAME="LinlkedList Coverage Results" MODIFIED="1560116060337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Data Structures" />
+    <SUITE FILE_PATH="coverage/code_droplets$BuilderPattern.coverage" NAME="BuilderPattern Coverage Results" MODIFIED="1559481671020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1559855208196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Sorting" />
+    <SUITE FILE_PATH="coverage/code_droplets$RemoveDuplicatesFromArray.coverage" NAME="RemoveDuplicatesFromArray Coverage Results" MODIFIED="1560116573982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/BrainEaters" />
+    <SUITE FILE_PATH="coverage/code_droplets$GarbageCollectionTest.coverage" NAME="GarbageCollectionTest Coverage Results" MODIFIED="1558801157932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/code_droplets$test.coverage" NAME="test Coverage Results" MODIFIED="1560031506578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-files" />
+    <SUITE FILE_PATH="coverage/code_droplets$DecoratorsToCheckErrors.coverage" NAME="DecoratorsToCheckErrors Coverage Results" MODIFIED="1559684459340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$IteratorPattern.coverage" NAME="IteratorPattern Coverage Results" MODIFIED="1559373764193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$SingletonPattern.coverage" NAME="SingletonPattern Coverage Results" MODIFIED="1559508596381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$SingletonPatternUsingMetaClasses.coverage" NAME="SingletonPatternUsingMetaClasses Coverage Results" MODIFIED="1559762073874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Design Patterns" />
+    <SUITE FILE_PATH="coverage/code_droplets$Meta_Class.coverage" NAME="Meta Class Coverage Results" MODIFIED="1559596657973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/code_droplets$Protected.coverage" NAME="Protected Coverage Results" MODIFIED="1559770147050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AntiPatterns/VendorLockIn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntiPatterns/CopyPaste">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntiPatterns/LavaFlow">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Building-a-Simple-Chatbot-in-Python-using-NLTK-master.zip/Building-a-Simple-Chatbot-in-Python-using-NLTK-master/chatbot.py" />
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/ObserverPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/BuilderPattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/ObjectPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/SingletonPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Meta Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/DecoratorPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/DecoratorsAsAClassPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/DecoratorsToCheckErrors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/806777072/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/FacadePattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AntiPatterns/GoldenHammer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/AbstractFactoryPattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/SingletonPatternUsingMetaClasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/Super.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Design Patterns/Closure.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Operator Overloading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixMultiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoopInLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ISM Methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting/Merge Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data Structures/Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Multi Threading/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data Structures/Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting/WaveSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables/Public.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-files/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables/Private.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables/Protected.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/LargestNumber.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/DuplicateInArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/WaveArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/MaxUnsortedSubArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/MaximumConsecutiveGap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/HotelBookingPossible.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/NextPermutation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data Structures/LinlkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/KthMissingElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/UniquePairsInAnArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/CountPairsInArrayWhoseSumIsDivisibleByK.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BrainEaters/RemoveDuplicatesFromArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/binarytree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="12" selection-start-line="162" selection-start-column="12" selection-end-line="162" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting/heapsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

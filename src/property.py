@@ -24,6 +24,17 @@ class Employee:
         return "{}.{}@nagarro.com".format(self.fname, self.lname)
 
 
+class Student:
+
+    def __init__(self,name,college,university,id):
+        self.name = name
+        self.college = college
+        self.university = university
+        self.id = id
+
+    
+
+
 if __name__ == "__main__" :
 
 

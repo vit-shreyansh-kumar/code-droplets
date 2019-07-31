@@ -1,5 +1,6 @@
 __about__ = """ Custom Context Manager. """
 
+
 class ContextManager:
 
     def __init__(self, filename, mode):
@@ -15,3 +16,7 @@ class ContextManager:
 
 
 if __name__ == "__main__" :
+
+    with ContextManager('myfile', "w+") as manager:
+
+        manager.write("Hey Bro ")

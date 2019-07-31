@@ -14,11 +14,15 @@ __usage__ = """
                 automatic resource locking/synchronization.
             """
 
-class myMeta(type):
-    pass
 
-class A:
-    pass
+class Metas(object):
+
+    def __call__(self, *args, **kwargs):
+        print(args)
+        print(kwargs)
 
 
+a = Metas()
+
+a(1, 2, 3)
 

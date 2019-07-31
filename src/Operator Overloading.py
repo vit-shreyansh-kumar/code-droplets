@@ -1,3 +1,6 @@
+__about__ = """ 
+            Operator Overloading in Python. 
+            """
 
 
 class A:
@@ -12,7 +15,7 @@ class A:
         return self.a - other.a
 
 
-if __name__ == "__main__" :
+if __name__ == "__main__":
     1 + 2
     ob1 = A(1)
     ob2 = A(2)
